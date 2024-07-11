@@ -1,8 +1,10 @@
 body {
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 div {
     font-family: tahoma;
     font-size: 20px;
+    text-shadow: 1px 1px white;
 }

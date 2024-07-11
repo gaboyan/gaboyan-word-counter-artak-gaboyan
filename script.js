@@ -26,16 +26,17 @@ function counter(){
     document.getElementById('sentenceCount').textContent = "Sentence count: " + sentenceCount;
     
 }
-function bgChanger(){
-    imgsrc=Math.floor(16777215*Math.random());
-    
-    lnk="url('https://picsum.photos/1000?" +imgsrc +"')"
-    document.body.style.backgroundImage=lnk;
-    document.body.style.backgroundColor=imgsrc.toString(16);
-
-    
-}
 
 setInterval(() => {
     counter();
 }, 100);
+
+function bgChanger(){
+    imgsrc=Math.floor(16777215*Math.random());
+    lnk="url('https://picsum.photos/1000?" +imgsrc +"')"
+    document.body.style.backgroundImage=lnk;
+    document.body.style.backgroundColor=imgsrc.toString(16);
+}
+
+
+
