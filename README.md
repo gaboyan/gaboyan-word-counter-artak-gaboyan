@@ -58,14 +58,6 @@ This project uses vanilla JavaScript and doesn't require any external libraries 
 
 This application should work in most modern web browsers that support ES6+ JavaScript.
 
-## License
-
-[Add your chosen license here]
-
 ## Author
 
-[Your Name]
-
-## Contributing
-
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+Artak Gaboyan
