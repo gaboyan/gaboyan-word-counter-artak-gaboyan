@@ -61,3 +61,6 @@ This application should work in most modern web browsers that support ES6+ JavaS
 ## Author
 
 Artak Gaboyan
+
+
+Thank you for providing link to your repo
